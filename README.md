@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MATLAB: unhandled errors within functions. The `bug.m` file shows the erroneous code which throws an error without proper handling. The improved version, `bugSolution.m`, utilizes `try-catch` blocks for better error management, preventing the program from crashing and providing more informative error messages.
